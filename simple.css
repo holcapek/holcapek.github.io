@@ -1,0 +1,21 @@
+* {
+	font-family: sans-serif;
+}
+
+code, code * {
+	font-family: monospace;
+}
+
+a {
+	text-decoration: none;
+	color: royalblue;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div#content-root {
+	width: 48em;
+	margin: 0 auto;
+}

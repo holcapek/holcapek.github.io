@@ -1,0 +1,6 @@
+title: Occasional Musings
+markdown: kramdown
+highlighter: rouge
+markdown_ext: md
+exclude:
+  - Gemfile*
